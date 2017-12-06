@@ -1,9 +1,19 @@
 body{
-	background: green;
+	background-image: url("hamburger-576419_1280.png");
+	background-size: 1500px;
 }
 h1{
 	text-align: center;
 }
-.devour{
-	color: red;
+#devour{
+	background-color: red;
+}
+.text-enter-button{
+	color: blue;
+}
+.topbar{
+	font-size: 40px;
+}
+p{
+	font-size: 30px;
 }
